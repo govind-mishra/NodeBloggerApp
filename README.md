@@ -7,5 +7,5 @@ All the code covers a ton of content from the basics of setting up an Express se
 3. **Install Node Packages.** - `npm install`
 
 Note - Please install mongodb first if you don't have .
-Find the link below for mongodb
+Find the link below for mongodb.
 https://www.mongodb.com/try/download/community
