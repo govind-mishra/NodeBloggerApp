@@ -1,4 +1,4 @@
-# Node js Blogger app
+# Node js app for curd operation of blogs using mongoDB and express packages support
 This application contains all the basic concept of  Node.js, MongoDB, and Express by building out a complete blog with markdown support.
 All the code covers a ton of content from the basics of setting up an Express server to the complex structure of building a full stack web application.
 ## Get Started
